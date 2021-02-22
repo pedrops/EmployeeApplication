@@ -11,6 +11,7 @@ This project was created for TrueLogic as a challenge
 
 - Clone repo from [github](https://github.com/pedrops/EmployeeApplication.git).
 - Build and Execute the project.
+- In case "Microsoft.Extensions.Configuration.Abstractions" assembly is not compatible with the framework, please remove it manually and include it by pressing ["control" + "."] keyboard combination over DL/Repository/EmployeeClientRepository.cs class configuration error, this will fix any configuration issue.
 
 ## Additional Information
 
@@ -23,3 +24,4 @@ This project was created for TrueLogic as a challenge
 ## Author
 
 - Pedro Monzon
+
