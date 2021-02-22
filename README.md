@@ -9,7 +9,7 @@ This project was created for TrueLogic as a challenge
 
 ## Instructions
 
-- Clone repo from [github](https://github.com/pedrops/EmployeeApp.git).
+- Clone repo from [github](https://github.com/pedrops/EmployeeApplication.git).
 - Build and Execute the project.
 
 ## Additional Information
