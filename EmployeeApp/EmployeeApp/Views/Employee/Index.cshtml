@@ -1,0 +1,50 @@
+﻿@model IEnumerable<EmployeeApp.Models.EmployeeModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Employee List</h2>
+
+
+@using (Html.BeginForm("Index", "Employee"))
+{
+    <div>
+        <div class="row">
+            <div class="form-group col-lg-6">
+                <input type="text" class="form-control" name="Id" id="txtName" placeholder="Insert Employee ID" />
+                <button class="btn btn-success" type="submit">Get Employees</button>
+                <p class="text-warning">@ViewBag.Warning</p>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(model => model.ID)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.Name)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.ContractTypeName)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.RoleId)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.RoleName)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.RoleDescription)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.AnualSalary)</th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+
+    <tr>
+        <td>@item.ID</td>
+        <td>@item.Name</td>
+        <td>@item.ContractTypeName</td>
+        <td>@item.RoleId</td>
+        <td>@item.RoleName</td>
+        <td>@item.RoleDescription</td>
+        <td class="text-success">@string.Format("{0:C}", @item.AnualSalary)</td>
+    </tr>
+    }
+</table>

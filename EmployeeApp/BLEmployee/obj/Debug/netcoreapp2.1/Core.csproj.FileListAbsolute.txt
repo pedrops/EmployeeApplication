@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\user\source\repos\EmployeeApp\BLEmployee\obj\Debug\netcoreapp2.1\Core.pdb

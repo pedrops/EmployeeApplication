@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Data.pdb
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.dll
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\obj\Debug\netcoreapp2.1\Data.pdb
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\EmployeeApp\DAEmployee\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
